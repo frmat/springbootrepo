@@ -1,1 +1,2 @@
 #secondFile
+# new line
